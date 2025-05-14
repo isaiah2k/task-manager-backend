@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Finish Phase 2 project",
+      "category": "School",
+      "completed": false
+    }
+  ]
+}
