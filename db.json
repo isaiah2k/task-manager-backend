@@ -1,10 +1,50 @@
-{
-  "tasks": [
-    {
-      "id": 1,
-      "title": "Finish Phase 2 project",
-      "category": "School",
-      "completed": false
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "title": "Check Flatiron assignments",
+    "category": "School",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "Practice React components",
+    "category": "School",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "title": "Clean desk + wipe down PC setup",
+    "category": "Chores",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "title": "Exercise",
+    "category": "Health",
+    "completed": false
+  },
+  {
+    "id": 5,
+    "title": "Journal thoughts / reflect",
+    "category": "Mental",
+    "completed": false
+  },
+  {
+    "id": 6,
+    "title": "Reply to messages or emails",
+    "category": "Errands",
+    "completed": false
+  },
+  {
+    "id": 7,
+    "title": "Check on cat + refill food/water",
+    "category": "Chores",
+    "completed": false
+  },
+  {
+    "id": 8,
+    "title": "Work on Phase 2 project",
+    "category": "School",
+    "completed": false
+  }
+]
